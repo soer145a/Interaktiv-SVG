@@ -3,4 +3,4 @@
 2. følg videotutorials og gør "kortet" interaktivt
 
 Link til tutorials:
-[http://mabe-kea.dk/category/svg/]
+http://mabe-kea.dk/category/svg/
